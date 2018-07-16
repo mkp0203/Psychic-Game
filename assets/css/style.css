@@ -11,7 +11,8 @@ body {
     text-align: center;
     background-color: #006994;
     color: #fff;
-    opacity: .95;
+    opacity: .9;
+    box-shadow: 1px 0px 2px 2px #006994;
 }
 
 #game {
